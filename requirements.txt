@@ -1,1 +1,5 @@
 streamlit
+newspaper3k
+pandas
+beautifulsoup4
+requests
