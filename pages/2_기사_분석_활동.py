@@ -76,7 +76,7 @@ article_date = st.text_input("발행일 (YYYY-MM-DD)", value=article_date)
 
 # ✅ 참고문헌 APA 양식 입력
 st.subheader("📚 참고문헌 (APA 양식)")
-apa_citation = st.text_area("APA 양식으로 참고문헌을 작성해보세요", placeholder="예: 홍길동. (2023). 기후 변화의 영향. 한국일보.")
+apa_citation = st.text_area("APA 양식으로 참고문헌을 작성해보세요", placeholder="예: 홍길동. (2025.8.1). 기후 변화의 영향. 한국일보. URL 주소")
 
 # ✅ 2~5번 활동
 st.header("2️⃣ 이 기사를 선택한 이유")

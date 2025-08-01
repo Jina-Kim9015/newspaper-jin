@@ -5,3 +5,4 @@ beautifulsoup4
 requests
 lxml==4.9.3
 newspaper3k
+openai
